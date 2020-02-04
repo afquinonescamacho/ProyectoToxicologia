@@ -2,13 +2,13 @@
 Repositorio con todos los archivos para el proyecto de detección de PAHs y la relación en el efecto sobre la salud de los bumangueses.
 
 ## Tareas:
-- __RE IMPORTANTE:__ 
- - PICOT
- - Pregunta de investigación
- - Objetivos
- - Población del estudio si existe
- - Métodos
- - Tipo de estudio.
+* __RE IMPORTANTE:__ 
+  - PICOT
+  - Pregunta de investigación
+  - Objetivos
+  - Población del estudio si existe
+  - Métodos
+  - Tipo de estudio.
 * Consultar a qué concentración se genera toxicidad por PAHs
 * ¿Qué método existe para medir los PAH? --> Mirar si el municipio ya los mide en lo de calidad de aire.
 * ¿Qué síntomas provocan estas partículas? --> Estudio epidemiológico (tipo encuesta)
